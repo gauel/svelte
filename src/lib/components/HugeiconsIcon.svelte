@@ -11,7 +11,7 @@
         absoluteStrokeWidth?: boolean;
         color?: string;
         showAlt?: boolean;
-        className?: string;
+        class?: string;
     }>();
 
     let svgElement: SVGSVGElement;
